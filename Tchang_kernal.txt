@@ -1,0 +1,10 @@
+To install Jupyter kernal for virtual env -
+1.Go to virtual env
+2.Activate virtual env
+ Run below command :
+python -m ipykernel install --user --name=my-virtualenv-name
+
+In jupyter notebook select kernal
+
+
+
